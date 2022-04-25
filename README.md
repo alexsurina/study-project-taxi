@@ -1,6 +1,6 @@
 Учебный проект: 
 
-[Прогнозирование заказов такси. Версия 1.](https://github.com/alexsurina/study-project-taxi/blob/main/taxi_2.ipynb) (train+valid+test 8 : 1 : 1, RMSE CatBoostRegressor - 38.89394)
+[Прогнозирование заказов такси. Версия 1.](https://github.com/alexsurina/study-project-taxi/blob/main/taxi_1.ipynb) (train+valid+test 8 : 1 : 1, RMSE CatBoostRegressor - 38.89394)
 
 [Прогнозирование заказов такси. Версия 2.](https://github.com/alexsurina/study-project-taxi/blob/main/taxi_2.ipynb) (train+test 9 : 1, RMSE LightGBMRegressor - 39.840184)
 
